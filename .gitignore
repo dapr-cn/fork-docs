@@ -16,3 +16,5 @@ daprdocs/content/en/.DS_Store
 daprdocs/resources/.DS_Store
 daprdocs/static/.DS_Store
 daprdocs/static/presentations/.DS_Store
+# Local deja session-rule export (auto-extracted from agent sessions; not committed)
+.deja/
